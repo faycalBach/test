@@ -15,7 +15,6 @@ distlib==0.3.1
 Django==2.1.1
 gunicorn
 django-heroku
-requests
 docker==4.2.2
 docker-compose==1.25.5
 dockerpty==0.4.1
