@@ -1,0 +1,12 @@
+ciao{% extends 'base.html' %}
+
+{% block content %}
+  <h2>Upload</h2>
+  <form method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    {{form.file_upload}}
+    {{form.client_name}}
+    <button type="submit">Upload file</button>
+  </form>
+  
+{% endblock %}
