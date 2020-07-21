@@ -1,0 +1,1557 @@
+    1  ssh @192.168.1.22
+    2  alias
+    3  ls
+    4  ssh @192.168.1.22 -login
+    5  ssh -b @192.168.1.22 
+    6  ssh -L  @192.168.1.22 
+    7  ipconfig
+    8  ipconfig
+    9  ls
+   10  ssh @127.0.0.1 
+   11  ssh _L @127.0.0.1 
+   12  ssh -L @127.0.0.1 
+   13  ssh -L -b @127.0.0.1 
+   14  ssh -b @127.0.0.1 
+   15  ssh -b 127.0.0.1 
+   16  ssh @127.0.0.1 nodejs
+   17  nodejs
+   18  sudo nodejs
+   19  sudo
+   20  sudo ssh
+   21  ls
+   22  cd Applications
+   23  ls
+   24  sudo Chrome\ Apps.localized
+   25  sudo Chrome
+   26  cd Chrome\ Apps.localized
+   27  ls
+   28  sudo apt-cache search java
+   29  sudo apt-get install openjdk-8-jdk
+   30  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" < /dev/null
+   31  brew install neo4j
+   32  sudo apt-cache search java
+   33  ssh cf@192.168.1.22 
+   34  ssh cf@192.168.1.22
+   35  sudo ssh cf@192.168.1.22
+   36  /Users/stm/opt/anaconda3/bin/jupyter_mac.command ; exit;
+   37  source
+   38  source activate
+   39  ls
+   40  man
+   41  man ls
+   42  ps -all
+   43  man -ps
+   44  man ps
+   45  python
+   46  ipython
+   47  python
+   48  ls
+   49  python -v
+   50  history
+   51  ipython
+   52  python -v
+   53  python
+   54  exit
+   55  /Applications/Python\ 3.8/Update\ Shell\ Profile.command ; exit;
+   56  pip install certifi
+   57   python -m certifi
+   58  curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+   59  sudo easy_install pip
+   60  pip install certifi
+   61   python -m certifi
+   62   python -m pandas
+   63  pip install pandas
+   64  pip install nose
+   65  pip install tornado
+   66  pip install pandas
+   67  pip install nose
+   68  ls
+   69  python
+   70  pip install ipython
+   71  ipython
+   72  conda update ipython
+   73  pip install
+   74  iptest
+   75  pwd
+   76  cd Documents
+   77  ls
+   78  ipython
+   79  ipython
+   80  python
+   81  source /Users/stm/opt/anaconda3/bin/activate
+   82  conda activate base
+   83  /Users/stm/opt/anaconda3/bin/python /Users/stm/Documents/etoro.py
+   84  /Users/stm/opt/anaconda3/bin/python /Users/stm/Documents/etoro.py
+   85  /Users/stm/opt/anaconda3/bin/python /Users/stm/Documents/etoro.py
+   86  /Users/stm/opt/anaconda3/bin/python /Users/stm/Documents/etoro.py
+   87  /Users/stm/opt/anaconda3/bin/python /Users/stm/Documents/etoro.py
+   88  /Users/stm/opt/anaconda3/bin/python /Users/stm/Documents/etoro.py
+   89  pwd
+   90  ipython
+   91  source /Users/stm/opt/anaconda3/bin/activate
+   92  conda activate base
+   93  /Users/stm/opt/anaconda3/bin/python /Users/stm/.vscode/extensions/ms-python.python-2020.5.80290/pythonFiles/pyvsc-run-isolated.py /Users/stm/.vscode/extensions/ms-python.python-2020.5.80290/pythonFiles/shell_exec.py /Library/Frameworks/Python.framework/Versions/3.8/bin/python3 /Users/stm/.vscode/extensions/ms-python.python-2020.5.80290/pythonFiles/pyvsc-run-isolated.py pip install -U ipykernel --user /var/folders/vq/6nk91mcx21j90fmz4dszj70c0000gn/T/tmp-4153TZ2YDAGc2RAu.log
+   94  ipython
+   95  nano index.js
+   96  python scraping.py
+   97  nano  scraping.py
+   98  nano  index.js
+   99  git clone https://github.com/metacall/beautifulsoup-express-example
+  100  curl -sL https://raw.githubusercontent.com/metacall/install/master/install.sh | sh
+  101  curl -sL https://raw.githubusercontent.com/metacall/install/master/install.sh | sh
+  102  sudo curl -sL https://raw.githubusercontent.com/metacall/install/master/install.sh | sh
+  103  curl -sL https://raw.githubusercontent.com/metacall/install/master/install.sh
+  104  bash <(curl -sL https://raw.githubusercontent.com/metacall/install/master/install.sh)
+  105  bash <(wget -O - https://raw.githubusercontent.com/metacall/install/master/install.sh)
+  106  docker --version
+  107  docker --version
+  108  bash <(curl -sL https://raw.githubusercontent.com/metacall/install/master/install.sh)
+  109  metacall pip3 install beautifulsoup4 certifi
+  110  pip install --upgrade pip
+  111  metacall npm install metacall express
+  112  nano index.js
+  113  nano scraping.py
+  114  metacall index.js
+  115  nano ./scraping.py
+  116  metacall npm install metacall express
+  117  ls
+  118  metacall ./index.js
+  119  nodejs
+  120  node
+  121  node -version
+  122  node
+  123  metacall ./index.js
+  124  metacall pip3 install beautifulsoup4 certifi
+  125  metacall npm install metacall express
+  126  nano metacall.json
+  127  metacall npm install metacall express
+  128  metacall ./index.js
+  129  ls
+  130  scraping.py
+  131  cat scraping.py
+  132  ipYTHON
+  133  ipython
+  134  python
+  135  ipyhton
+  136  ls
+  137  metacall ./index.js
+  138  nano metacall.json
+  139  metacall ./scraping.py
+  140  metacall ./index.js
+  141  {\n    "language_id": "py",\n    "path": ".",\n    "scripts": [\n        "scraping.py"\n    ]\n}
+  142  metacall ./index.js
+  143  npm install node-loader --save-dev
+  144  npm install
+  145  sudo npm install -g npm
+  146  npm install
+  147  npm install debug
+  148  npm install npm@latest -g
+  149  sudo npm install npm@latest -g
+  150  sudo npm install npm@latest -g
+  151  npm install
+  152  ls
+  153  metacall npm install metacall express
+  154  metacall ./index.js
+  155  node ./index.js
+  156  nano ./index.js
+  157  python
+  158  wget
+  159  python
+  160  pip install statistics~
+  161  python -version
+  162  python 
+  163  python3
+  164  exit
+  165  python3
+  166  ruby
+  167  ruby -version
+  168  ruby -h
+  169  ruby -v
+  170  ^[[200~brew install opencv
+  171  brew install opencv
+  172  ~which python3 
+  173  which python3 
+  174  which opencv
+  175  which python
+  176  which python3 
+  177  python2 --version
+  178  python3 --version
+  179  export PATH="/usr/local/opt/python/libexec/bin:$PATH"\n
+  180  pip install virtualenv virtualenvwrapper\n\necho "# Virtual Environment Wrapper"\n\necho "VIRTUALENVWRAPPER_PYTHON=/usr/local/bin/python2" >> ~/.bash_profile\n\necho "source /usr/local/bin/virtualenvwrapper.sh" >> ~/.bash_profile\n\nsource ~/.bash_profile\n
+  181  mkvirtualenv facecourse-py2 -p python2\nworkon facecourse-py2\n\n
+  182  mkvirtualenv facecourse-py2 -p python2 workon facecourse-py2\n\n
+  183  mkvirtualenv facecourse-py3 -p python3\n\n
+  184  pip install virtualenv virtualenvwrapper
+  185  echo "# Virtual Environment Wrapper"
+  186  ^[[200~echo "# Virtual Environment Wrapper"
+  187  echo "VIRTUALENVWRAPPER_PYTHON=/usr/local/bin/python2" >> ~/.bash_profile
+  188  echo "source /usr/local/bin/virtualenvwrapper.sh" >> ~/.bash_profile\n
+  189  source ~/.bash_profile
+  190  echo "source /usr/local/bin/virtualenvwrapper.sh" >> ~/.bash_profile\n
+  191  source ~/.bash_profile
+  192  mkvirtualenv facecourse-py3 -p python3\n
+  193  echo /usr/local/opt/opencv/lib/python2.7/site-packages >>\n/usr/local/lib/python2.7/site-packages/opencv3.pth
+  194  find /usr/local/opt/opencv3/lib/ -name cv2*.so\n
+  195  cd /usr/local/etc
+  196  ls
+  197  cd ..
+  198  ls
+  199  pwd
+  200  cd opt
+  201  ls
+  202  cd opencv
+  203  ls
+  204  cd..
+  205  cd opencv3
+  206  cd opencv
+  207  ls
+  208  pwd
+  209  cd ..
+  210  cd opencv3
+  211  ls opencv*
+  212  pwd
+  213  ls opencv*
+  214  ls open*
+  215  cd ~/.virtualenvs/facecourse-py3/lib/python3.6/site-packages/\nln -s /usr/local/opt/opencv3/lib/python3.6/site-packages/cv2.cpython-36m-darwin.so cv2.so
+  216  cd ~/.virtualenvs/facecourse-py3/lib/python3.6/site-packages/
+  217  cd ~/.virtualenvs
+  218  ipython
+  219  ipyyhon
+  220  pip install ipython
+  221  ipython
+  222  python3
+  223  python
+  224  echo /usr/local/opt/opencv/lib/python2.7/site-packages >>\n/usr/local/lib/python2.7/site-packages/opencv3.pth
+  225  python --version
+  226  cd  /usr/local/opt/opencv/lib/python2.7/
+  227  cd  /usr/local/opt/opencv/lib/python3.8/site-packages >> /usr/local/lib/python3.8/site-packages/opencv3.pth
+  228  echo  /usr/local/opt/opencv/lib/python3.8/site-packages >> /usr/local/lib/python3.8/site-packages/opencv3.pth
+  229  echo /usr/local/opt/opencv/lib/python3.8/site-packages >>\n/usr/local/lib/python3.8/site-packages/opencv3.pth\n
+  230  echo /usr/local/opt/opencv/lib/python3.8/site-packages >> /usr/local/lib/python3.8/site-packages/opencv3.pth\n
+  231  echo /usr/local/opt/opencv/lib/python3.8/site-packages >> /usr/local/lib/python3.8/site-packages/opencv3.pth\n
+  232  find /usr/local/opt/opencv3/lib/ -name cv2*.so
+  233  find /usr/local/opt/opencv4/lib/ -name cv2*.so
+  234  find /usr/local/opt/opencv/lib/ -name cv2*.so
+  235  cd /usr/local/opt/opencv
+  236  ls
+  237  cd bin
+  238  ls
+  239  cd ..
+  240  ls
+  241  ls
+  242  cd ..
+  243  pwd
+  244  ls
+  245  ls cv*
+  246  ls *cv*
+  247  cd local
+  248  cd..
+  249  cd..
+  250  cd..
+  251  ls
+  252  ?
+  253  conda
+  254  conda info
+  255  conda install -c menpo opencv4
+  256  conda install -c opencv4
+  257  conda install -c opencv=4
+  258  conda search opencv
+  259  conda install -c opencv=3.4.2
+  260  conda install -c menpo opencv=3.4.2
+  261  conda serach opencv
+  262  conda search opencv
+  263  ipython
+  264  ls
+  265  conda install -c opencv=3.4.2
+  266  jupyter notebook
+  267  exit
+  268  pip3
+  269  pip3 install virtualenv
+  270  pip install --upgrade pip
+  271  pip3 install virtualenv
+  272  pip3 install jupyter
+  273  jupyter --v
+  274  virtualenv -p python3
+  275  virtualenv -p python3 course_opencv4
+  276  ls
+  277  cd course_opencv4
+  278  ls
+  279  cd lib
+  280  ls
+  281  cd ..
+  282  ls
+  283  cd bin
+  284  ls
+  285  pwd
+  286  cd ..
+  287  cd ..
+  288  ls
+  289  pwd
+  290  ls
+  291  source course_opencv4/bin/activate
+  292  deactivate
+  293  jupyter notebook
+  294  fing jupyter
+  295  pip3 install jupyter
+  296  conda
+  297  anaconda
+  298  source course_opencv4/bin/activate
+  299  ipython
+  300  python3
+  301  python
+  302  install -c conda-forge opencv
+  303  conda install -c conda-forge opencv
+  304  brew  install -c conda-forge opencv
+  305  brew  install -c menpo dlib
+  306  brew  install -c menpo dlib
+  307  brew conda  install -c menpo dlib
+  308  conda
+  309  anaconda
+  310  pyton -V
+  311  python -V
+  312  python 
+  313  conda infi
+  314  conda info
+  315  echo $ZSH_VERSION
+  316  export PATH ="/Users/Dz/anaconda/bin:$PATH"
+  317  conda info
+  318  \n
+  319  nano ~/.zshrc
+  320  source ~/.zshrc
+  321  sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+  322  xcode-select --install
+  323  /usr/bin/ruby -e "$(curl -fsSL https://raw.github\nusercontent.com/Homebrew/install/master/install)"
+  324  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  325  nano ~/.profile 
+  326   ~/.profile 
+  327  sudo  ~/.profile 
+  328  source  ~/.profile 
+  329  brew doctor
+  330  brew cleanup
+  331  brew update
+  332  brew install opencv
+  333  brew install scipy
+  334  brew edit  opencv
+  335  brew edit  opencv
+  336  ipython
+  337  brew doctor
+  338  brew install opencv --with-contrib --with-python
+  339  cmaker
+  340  ./bootstrap
+  341  make
+  342  source ~/.zshrc
+  343  ./bootstrap
+  344  cmaker
+  345  exit
+  346  cmaker
+  347  exit
+  348  ls
+  349  conda
+  350  conda search
+  351  pwd
+  352  history
+  353  ls
+  354  cd Downloads
+  355  ls
+  356  cd ..
+  357  ls
+  358  cd Documents
+  359  ls
+  360  cd img
+  361  ls
+  362  cd ..
+  363  unzip Documents/img/opencv-4.0.0.zip 
+  364  ls
+  365  cd opencv-4.0.0
+  366  ls
+  367  makedir build
+  368  mkdir build
+  369  cd build
+  370  ls
+  371  cmake
+  372  cmaker
+  373  pwd
+  374  cmake
+  375  pwd
+  376  cd opencv-4.0.0
+  377  cd build
+  378  pwd
+  379  cd ..
+  380  ls
+  381  pwd
+  382  unzip /Users/stm/Documents/img/opencv_contrib-4.0.0
+  383  ls
+  384  cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/Users/stm/opencv-4.0.0/build -D INSTALL_C_EXAMPLES=ON -D BUILD_EXAMPLES=ON -D OPENCV_EXTRA_MODULES_PATH=/Users/stm/Documents/img/opencv_contrib-4.0.0/opencv_contrib-4.0.0/modules ../
+  385  make -j4
+  386  ls
+  387  make -j4
+  388  make 
+  389  cat ./CMakeFiles/CMakeError.log
+  390  sudo cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/Users/stm/opencv-4.0.0/build -D INSTALL_C_EXAMPLES=ON -D BUILD_EXAMPLES=ON -D OPENCV_EXTRA_MODULES_PATH=/Users/stm/Documents/img/opencv_contrib-4.0.0/opencv_contrib-4.0.0/modules ../
+  391  sudo cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/Users/stm/opencv-4.0.0/build -D INSTALL_C_EXAMPLES=ON -D BUILD_EXAMPLES=ON -D OPENCV_EXTRA_MODULES_PATH=/Users/stm/opencv-4.0.0/opencv_contrib-4.0.0/modules ../
+  392  make -j4
+  393  sudo make -j4
+  394  ipython
+  395  python
+  396  ls
+  397  cs sample
+  398  cd sample
+  399  cd ./samples
+  400  ls
+  401  cd python
+  402  ls
+  403  cat demo.py 
+  404  make install
+  405  sudo make install
+  406  source ~/.zshrc
+  407  nano  ~/.profile
+  408  cd..
+  409  cd ..
+  410  pwd
+  411  nano  ~/.profile
+  412  pwd
+  413  cd opencv-4.0.0
+  414  pwd
+  415  cp /Users/stm/opencv-4.0.0/build/lib/pkgconfig/opencv.pc /usr/local/lib/pkgconfig/opencv4.pc 
+  416  cd  /Users/stm/opencv-4.0.0/build/lib
+  417  ls
+  418  cd opencv4/
+  419  ls
+  420  cd ..
+  421  pwd
+  422  cd ..
+  423  ls
+  424  cmake find_package(opencv)
+  425  pwd
+  426  cd build
+  427  cmake find_package(Opencv)
+  428  cmake D OPENCV_GENERATE_PKGCONFIG=YES
+  429  python
+  430  sudo make install 
+  431  cp /Users/stm/opencv-4.0.0/build/lib/pkgconfig/opencv.pc /usr/local/lib/pkgconfig/opencv4.pc 
+  432  cp /Users/stm/opencv-4.0.0/build/lib/pkgconfig/ 
+  433  cd  /Users/stm/opencv-4.0.0/build/lib 
+  434  pwd
+  435  cd ..
+  436  pwd
+  437  ls
+  438  pwd
+  439  cd ..
+  440  pwd
+  441  cd build
+  442  ls
+  443  cd bib
+  444  cd bin
+  445  ls
+  446  cd ..
+  447  ls
+  448  cd ..
+  449  pwd
+  450  cd build
+  451  ls
+  452  cp /Users/stm/opencv-4.0.0/build/lib/pkgconfig/opencv4.pc /usr/local/lib/pkgconfig/opencv4.pc 
+  453  cp /Users/stm/opencv-4.0.0/build/lib/opencv4.pc /usr/local/lib/pkgconfig/opencv4.pc 
+  454  lls
+  455  ls
+  456  history > test.txt
+  457  cat test
+  458  cat test.txt
+  459  history > test.txt
+  460  cat test.txt
+  461  pwd
+  462  cd /usr/local/lib
+  463  ls
+  464  cd pkgconfig
+  465  ls
+  466  cat opencv4.pc
+  467  cp /usr/local/lib/pkgconfig/opencv4.pc ./lib/pkgconfig/opencv.pc
+  468  mkdir  ./lib/pkgconfig
+  469  sudo mkdir  ./lib/pkgconfig
+  470  cp /usr/local/lib/pkgconfig/opencv4.pc ./lib/pkgconfig/opencv.pc
+  471  sudo cp /usr/local/lib/pkgconfig/opencv4.pc ./lib/pkgconfig/opencv.pc
+  472  cp /Users/stm/opencv-4.0.0/build/lib/pkgconfig/opencv.pc /usr/local/lib/pkgconfig/opencv4.pc 
+  473  sudo cp /Users/stm/opencv-4.0.0/build/lib/pkgconfig/opencv.pc /usr/local/lib/pkgconfig/opencv4.pc 
+  474  nano  ~/.profile
+  475  source ~/.profile 
+  476  cd /../samples/cpp 
+  477  pwd
+  478  cd ..
+  479  cd samples 
+  480  ls
+  481  cd cpp
+  482  g++ -ggdb `pkg-config --cflags --libs opencv4` opencv_version.cpp -o /tmp/opencv_version && /tmp/opencv_version
+  483  g++ -ggdb `pkg-config --cflags --libs opencv4` opencv_version.cpp -o 
+  484  cd ..
+  485  ls
+  486  pwd
+  487  cd samples
+  488  ls
+  489  cd python
+  490  ls
+  491  python opencv_version.py
+  492  java
+  493  cd\\npwd
+  494  exit
+  495  cd ..
+  496  pwd
+  497  ls
+  498  mkdir bach
+  499  cd bach
+  500  ls
+  501  mkdir aise
+  502  python3 -m venv aise
+  503  cd aise
+  504  ls
+  505  cd bin
+  506  ls
+  507  source activate
+  508  cd..
+  509  python
+  510  pwd
+  511  cd ..
+  512  ls
+  513  pip install numpy scipy scikit-learn opencv-contrib-python keyboard Pillow
+  514  python
+  515  pwd
+  516  ls
+  517  cd bach
+  518  ls
+  519  python3 -m venv aise
+  520  python
+  521  cd aise
+  522  python
+  523  source activate
+  524  cd ..
+  525  source activate
+  526  python3 -m venv aise
+  527  source activate
+  528  cd aise
+  529  python3 -m venv aise
+  530  source activate
+  531  source desactivate
+  532  ls
+  533  pwd
+  534  ls
+  535  cd aise
+  536  ls
+  537  cd ..
+  538  ls
+  539  pwd
+  540  ipython
+  541  python
+  542  ls
+  543  python3 det_mot.py
+  544  cd aise
+  545  cd bin
+  546  source activate
+  547  python
+  548  history
+  549  pwd
+  550  ls
+  551  cd bach
+  552  ls
+  553  cd bin
+  554  cd aise
+  555  cd bin
+  556  source activate
+  557  pip install pytesseract
+  558  python
+  559  brew install tesseract
+  560  brew list tesseract
+  561  ls
+  562  python
+  563  cd ..
+  564  ipython
+  565  cd bin
+  566  source activate
+  567  python
+  568  brew list tesseract
+  569  pip install pytesseract
+  570  python
+  571  tesseract --version~
+  572  tesseract --version
+  573  pwd
+  574  tesseract ./  stdout
+  575  tesseract ./samp.png pp.png
+  576  show(pp.png)
+  577  eog pp.png.txt
+  578  cat pp.png.txt
+  579  python
+  580  python3
+  581  cd ..
+  582  python3
+  583  pwd
+  584  ls
+  585  cd bach
+  586  cd aise
+  587  ls
+  588  pip matplotlib
+  589  pip install matplotlib
+  590  python3
+  591  ls
+  592  cd aise
+  593  ls
+  594  python3 words.py
+  595  spyder
+  596  import cv2\nimport pytesseract\n\nimg = cv2.imread('image.jpg')\n\nh, w, c = img.shape\nboxes = pytesseract.image_to_boxes(img) \nfor b in boxes.splitlines():\n    b = b.split(' ')\n    img = cv2.rectangle(img, (int(b[1]), h - int(b[2])), (int(b[3]), h - int(b[4])), (\ncv2.imshow('img', img)\ncv2.waitKey(0)
+  597  conda info -e  
+  598  conda
+  599  ls
+  600  find /path/to/my/env -name spyder
+  601  python3 words.py
+  602  ls
+  603  source activate
+  604  python3 words.py
+  605  python3
+  606  ls
+  607  cd ..
+  608  ls
+  609  python3 words.py
+  610  . /Users/stm/opt/anaconda3/bin/activate && conda activate /Users/stm/opt/anaconda3; ipython -i
+  611  ipython
+  612  python
+  613  pwd
+  614  ls
+  615  cd bach
+  616  ls
+  617  cd aise
+  618  cd bin
+  619  source activate
+  620  cd ..
+  621  pwd
+  622  ls
+  623  python3 det_mot.py
+  624  quit()\nls
+  625  python
+  626  python3
+  627  python3 words.py
+  628  ls
+  629  history
+  630  which zsh
+  631  which bash
+  632  chsh -s /bin/bash
+  633  chsh -s /bin/bash.
+  634  sudo chsh -s /bin/bash.
+  635  ls
+  636  cd bach
+  637  ls
+  638  cd aise
+  639  cv bin
+  640  ls
+  641  pwd
+  642  cd bin
+  643  source activate
+  644  cd ..
+  645  python3
+  646  nano ~/.zshrc
+  647  source  ~/.zshrc
+  648  ls
+  649  pwd
+  650  cd bach
+  651  ls
+  652  cd aise
+  653  cd bin
+  654  source activate
+  655  python3
+  656  cd ..
+  657  ipython
+  658  pwd
+  659  ls
+  660  cd ..
+  661  ls
+  662  cd ..
+  663  cd stm
+  664  cd bach
+  665  python aise/det_mot.py
+  666  cd aise
+  667  ls
+  668  python det_mot.py
+  669  pwd
+  670  python -m venv venv
+  671  mkdir venv
+  672  python -m venv venv
+  673  which python3
+  674  python -m venv venv
+  675  ls
+  676  cd venv
+  677  ls
+  678  cd ..
+  679  ls
+  680  python3 -m venv venv
+  681  pwd
+  682  source venv/bin/activate
+  683  source /Users/stm/opt/anaconda3/bin/activate
+  684  conda activate base
+  685  source /Users/stm/bach/aise/venv/bin/activate
+  686  /Users/stm/bach/aise/venv/bin/python /Users/stm/.vscode/extensions/ms-python.python-2020.6.90262/pythonFiles/pyvsc-run-isolated.py pip install -U pylint
+  687  pwd
+  688  python det_mot.py
+  689  ls
+  690  cd aise
+  691  ls
+  692  source /Users/stm/bach/aise/aise/bin/activate
+  693  /Users/stm/bach/aise/aise/bin/python /Users/stm/.vscode/extensions/ms-python.python-2020.6.90262/pythonFiles/pyvsc-run-isolated.py pip install -U pylint
+  694  git
+  695  pwd
+  696  mkdir opencv4
+  697  cd opencv
+  698  mkdir bach_opencv4
+  699  cd bach
+  700  ls
+  701  mkdir opencv_exemples
+  702  cd opencv_exemples
+  703  git clone https://github.com/PacktPublishing/Mastering-OpenCV-4-with-Python/
+  704  ls
+  705  cd Mastering-OpenCV-4-with-Python
+  706  ls
+  707  cd ..
+  708  cd aise
+  709  ls
+  710  source bin/activate
+  711  cd ..
+  712  ls
+  713  cd opencv_exemples
+  714  ls
+  715  Mastering-OpenCV-4-with-Python
+  716  ls
+  717  cd Chapter01
+  718  ls
+  719  cd 01-testing-installation
+  720  ls
+  721  python test_opencv_installation.py 
+  722  pwd
+  723  ls
+  724  cd ..
+  725  ls
+  726  cd stm
+  727  ls
+  728  cd bach
+  729  ls
+  730  cd aise
+  731  source bin/activate
+  732  cd ..
+  733  ls
+  734  cd opencv_exemples
+  735  ls
+  736  cd Mastering-OpenCV-4-with-Python
+  737  ls
+  738  cd Chapter02
+  739  ls
+  740  cd 01-chapter-content
+  741  ls
+  742  python 02_getting_and_setting_gray.py
+  743  cd  bach
+  744  cd opencv_exemples
+  745  cd Mastering-OpenCV-4-with-Python
+  746  source ../Mastering-OpenCV-4-with-Python/../../aise/bin/activate
+  747  cd Chapter06
+  748  ls
+  749  cd 01-chapter-content
+  750  ls
+  751  python histogram_introduction.py
+  752  python
+  753  ls
+  754  python grayscale_histogram.py
+  755  ls
+  756  ls *.j*
+  757  python grayscale_histogram.py
+  758  ls
+  759  python grayscale_histogram.py
+  760  python histogram_custom_visualization.py
+  761  python comparing_opencv_numpy_mpl_hist.py
+  762  python comparing_hist_equalization_clahe.py
+  763  python compare_histograms.py
+  764  pwd
+  765  cd bach
+  766  ls
+  767  source aise/bin/activate
+  768  cd opencv_exemples
+  769  cd Mastering-OpenCV-4-with-Python
+  770  cd Chapter05
+  771  ls
+  772  cd 01-chapter-content
+  773  ls
+  774  python color_map_all.py
+  775  python filter2D_kernels.py
+  776  exit
+  777  ls
+  778  ping 192.168.1.34
+  779  ssh
+  780  pwd
+  781  mkdir aws
+  782  ls
+  783  cd aws
+  784  ls
+  785  mkdir django
+  786  git
+  787  ^[[200~curl "https://awscli.amazonaws.com/AWSCLIV2.pkg" -o "AWSCLIV2.pkg"
+  788  sudo installer -pkg AWSCLIV2.pkg -target /~
+  789  curl "https://awscli.amazonaws.com/AWSCLIV2.pkg" -o "AWSCLIV2.pkg"
+  790  sudo installer -pkg AWSCLIV2.pkg -target/
+  791  sudo installer -pkg AWSCLIV2.pkg -target /
+  792  eb -version
+  793  curl "https://awscli.amazonaws.com/AWSCLIV2.pkg" -o "AWSCLIV2.pkg"
+  794  sudo installer -pkg ./AWSCLIV2.pkg -target /
+  795  aws -version
+  796  aws --version
+  797  aws configure
+  798  aws dynamodb dTAB
+  799  aws help
+  800  aws iam list-users --output json
+  801  aws ec2 help
+  802  ls
+  803  cd ..
+  804  ls
+  805  python --v
+  806  python --version
+  807  cd bach
+  808  ls
+  809  cd aise
+  810  ls
+  811  cd bin
+  812  ls
+  813  source deactivate
+  814  cd ..
+  815  ls
+  816  cd ..
+  817  ls
+  818  cd aws
+  819  ls
+  820  cd django
+  821  ls
+  822  virtualenv -p python3.7 /tmp/eb_python_app~
+  823  . /tmp/eb_python_app/bin/activate
+  824  ls
+  825  virtualenv -p python3.7 /tmp/eb_python_app
+  826  . /tmp/eb_python_app/bin/activate
+  827  pip freeze >requirements.txt
+  828  cat requirements.txt
+  829  PyYAML==3.11
+  830  PyYAML
+  831  eb
+  832  Xcode openssl zlib readline
+  833  git clone https://github.com/aws/aws-elastic-beanstalk-cli-setup.git
+  834  ./aws-elastic-beanstalk-cli-setup/scripts/bundled_installer
+  835  ls
+  836  histry
+  837  history
+  838  Xcode openssl zlib readline
+  839  brew install zlib openssl readline\nCFLAGS="-I$(brew --prefix openssl)/include -I$(brew --prefix readline)/include -I$(xcrun --show-sdk-path)/usr/include" LDFLAGS="-L$(brew --prefix openssl)/lib -L$(brew --prefix readline)/lib -L$(brew --prefix zlib)/lib"
+  840  python scripts/ebcli_installer.py --help
+  841  ls
+  842  python scripts/ebcli_installer.py --ebcli-source /path/to/awsebcli.zip
+  843  find awsebcli.zip
+  844  find awsebcli
+  845  wichawsebcli.zip
+  846  wich awsebcli.zip
+  847  python aws-elastic-beanstalk-cli-setup/scripts/ebcli_installer.py
+  848  source deactivate
+  849  pwd
+  850  %h
+  851  %history
+  852  history
+  853  cd  . /tmp/eb_python_app/bin/
+  854  cd\\ncd tmp
+  855  cd tmp
+  856  ls
+  857  cd..
+  858  dir
+  859  ls
+  860  cd..
+  861  ls
+  862  ls -all
+  863  cd aws-elastic-beanstalk-cli-setup
+  864  ls
+  865  cd scripts
+  866  ls
+  867  cd ..
+  868  cd..
+  869  ls
+  870  pwd
+  871  ls
+  872  cd bach
+  873  ls
+  874  mkdir aws
+  875  cd aws
+  876  brew install pyenv
+  877  git clone https://github.com/pyenv/pyenv-virtualenv.git $(pyenv root)/plugins/pyenv-virtualenv
+  878  brew install pyenv-virtualenv
+  879  eval "$(pyenv init -)"
+  880  eval "$(pyenv virtualenv-init -)"
+  881  pyenv virtualenv 2.7.10 my-virtual-env-2.7.10
+  882  pyenv version
+  883  pyenv virtualenv venv34
+  884  pyenv shell venv34
+  885  pyenv shell 
+  886  pyenv 
+  887  pyenv virtualenv venv34
+  888  brew update
+  889  pwd
+  890  cd aws
+  891  ls
+  892  rm *
+  893  ls
+  894  git clone https://github.com/aws/aws-elastic-beanstalk-cli-setup.git
+  895  ./aws-elastic-beanstalk-cli-setup/scripts/bundled_installer
+  896  CC=/usr/bin/gcc rbenv install 2.1.3
+  897  brew install openssl
+  898  ./aws-elastic-beanstalk-cli-setup/scripts/bundled_installer
+  899  cd aws
+  900  ls
+  901  brew install zlib openssl readline\nCFLAGS="-I$(brew --prefix openssl)/include -I$(brew --prefix readline)/include -I$(xcrun --show-sdk-path)/usr/include" LDFLAGS="-L$(brew --prefix openssl)/lib -L$(brew --prefix readline)/lib -L$(brew --prefix zlib)/lib"
+  902  ./aws-elastic-beanstalk-cli-setup/scripts/bundled_installer
+  903  ls
+  904  cd aws-elastic-beanstalk-cli-setup
+  905  ls
+  906  cd scripts
+  907  ls
+  908  python --v
+  909  python --Version
+  910  python --V
+  911  python -V
+  912  python aws-elastic-beanstalk-cli-setup/scripts/ebcli_installer.py
+  913  ls
+  914  cd ..
+  915  ls
+  916  cd ..
+  917  ls
+  918  python aws-elastic-beanstalk-cli-setup/scripts/ebcli_installer.py
+  919  echo 'export PATH="/Users/stm/.ebcli-virtual-env/executables:$PATH"' >> ~/.zshenv && source ~/.zshenv
+  920  eb
+  921  ls
+  922  cd django
+  923  ls
+  924  rm .
+  925  rm *
+  926  ls
+  927  rm *
+  928  cd ..
+  929  ls
+  930  cd django
+  931  python3 -m venv eb-virt
+  932  source eb-virt/bin/activate
+  933  clear
+  934  pip install django==2.1.1
+  935  ls
+  936  pwd
+  937  pip freeze
+  938  django-admin startproject ebdjango
+  939  ls
+  940  python ebdjango/manage.py runserver
+  941  pwd
+  942  cd ..
+  943  ls
+  944  cd django
+  945  pwd
+  946  ls
+  947  cd ebdjango
+  948  ls
+  949  pip freeze > requirements.txt
+  950  cat requirements.txt
+  951  mkdir .ebextensions
+  952  code
+  953  pwd
+  954  ls
+  955  mv
+  956  man mv
+  957  mv django.config .ebextensions
+  958  ls
+  959  cd .ebextensions
+  960  ls
+  961  cd ..
+  962  code .
+  963  sublime .
+  964  bracket .
+  965  deactivate
+  966  eb init -p python-3.6 django-tt
+  967  pwd
+  968  ls
+  969  eb create django-env
+  970  en open
+  971  eb open
+  972  eb deploy
+  973  eb open
+  974  activate
+  975  deactivate
+  976  pwd
+  977  ls
+  978  cd ..
+  979  ls
+  980  source eb-virt/bin/activate
+  981  pwd
+  982  ls
+  983  cd ebdjango
+  984  ls
+  985  python manage.py migrate
+  986  python manage.py createsuperuser
+  987  python manage.py collectstatic
+  988  deactivate
+  989  eb deploy
+  990  eb open
+  991  pwd
+  992  ls
+  993  source ../eb-virt/bin/activate
+  994  python manage.py runserver
+  995  pip install json2html 
+  996  python manage.py runserver
+  997  pip install numpy
+  998  python manage.py runserver
+  999  pip install opencv-contrib-python
+ 1000  pip install pytesseract
+ 1001  python manage.py runserver
+ 1002  ls
+ 1003  cd fpages
+ 1004  ls
+ 1005  pwd
+ 1006  cd ..
+ 1007  ls
+ 1008  python manage.py runserver
+ 1009  ^[[200~wand.image import Image as WandImage
+ 1010  apt-get install libmagickwand-dev
+ 1011  pip install Wand
+ 1012  python manage.py runserver
+ 1013  brew install freetype imagemagick
+ 1014  python manage.py runserver
+ 1015  pip install pandas
+ 1016  python manage.py runserver
+ 1017  pip install  requests
+ 1018  python manage.py runserver
+ 1019  ldd mod_wsgi.so
+ 1020  python
+ 1021  python import django.core.handlers.wsgi
+ 1022  python manage.py runserver
+ 1023  pwd
+ 1024  ls
+ 1025  cd fpages
+ 1026  ls
+ 1027  cd templates
+ 1028  ls
+ 1029  pwd
+ 1030  cd ..
+ 1031  ls
+ 1032  python manage.py runserver
+ 1033  pip install tox
+ 1034  tox
+ 1035  tesseract --version
+ 1036  tesseract /Users/stm/Desktop/SISTEMI_Netcool_2.png 
+ 1037  tesseract /Users/stm/Desktop/SISTEMI_Netcool_2.png text_result.txt
+ 1038  cat text_result.txt.txt
+ 1039  cear
+ 1040  clear
+ 1041  python manage.py runserver
+ 1042  cd ..
+ 1043  ls
+ 1044  deactivate
+ 1045  cd ebdjango
+ 1046  ls
+ 1047  eb terminate
+ 1048  ls
+ 1049  cd bach
+ 1050  ls
+ 1051  cd aws
+ 1052  ls
+ 1053  cd ..
+ 1054  ls
+ 1055  cd ..
+ 1056  ls
+ 1057  cd aws
+ 1058  ls
+ 1059  cd django
+ 1060  ls
+ 1061  source ./eb-virt/bin/activate
+ 1062  ls
+ 1063  pwd
+ 1064  ls
+ 1065  cd ..
+ 1066  ls
+ 1067  cd django
+ 1068  ls
+ 1069  cd ebdjango
+ 1070  ls
+ 1071  opconfig
+ 1072  python 192.186.1.14:8000
+ 1073  python manager.py runserver 192.186.1.14:8000
+ 1074  ls
+ 1075  python manage.py runserver 192.168.1.14:8000
+ 1076  python manage.py runserver 192.168.1.4:8000
+ 1077  sudo nano /etc/paths
+ 1078  wich code
+ 1079  witch code
+ 1080  echo $PATH
+ 1081  which python
+ 1082  which code
+ 1083  which visual
+ 1084  which visual-code
+ 1085  which visualcode
+ 1086  cd ..
+ 1087  ls
+ 1088  cd ..
+ 1089  pwd
+ 1090  cd Users
+ 1091  pwd
+ 1092  ls
+ 1093  cd stm
+ 1094  cd opt
+ 1095  ls
+ 1096  which code
+ 1097  pwd
+ 1098  which code
+ 1099  echo path
+ 1100  echo $path
+ 1101  code
+ 1102  which sublime
+ 1103  echo $path
+ 1104  brackets test.txt
+ 1105  cd ..
+ 1106  ls
+ 1107  cd aws
+ 1108  ls
+ 1109  cd django
+ 1110  ls
+ 1111  cd eb-virt
+ 1112  ls
+ 1113  brackets pyvenv.cfg
+ 1114  witch code
+ 1115  wtich code
+ 1116  witch code
+ 1117  which code
+ 1118  which sublime
+ 1119  /Users/stm/Library/Application Support/Sublime Text 2/Packages
+ 1120  cd ..
+ 1121  ls
+ 1122  cd Library
+ 1123  ls
+ 1124  cd Application Support
+ 1125  cd Application\ Support
+ 1126  ls
+ 1127  cd Sublime\ Text\ 3
+ 1128  ls
+ 1129  cd Packages
+ 1130  ls
+ 1131  cd User
+ 1132  ls
+ 1133  cd ..
+ 1134  ls
+ 1135  sublime
+ 1136  ls
+ 1137  pwd
+ 1138  ls
+ 1139  cd Library
+ 1140  cd Application\ Support
+ 1141  ls
+ 1142  cd Sublime\ Text\ 3
+ 1143  ls
+ 1144  cd Lib
+ 1145  ls
+ 1146  cd python3.3
+ 1147  ls
+ 1148  cd ..
+ 1149  ls
+ 1150  cd ..
+ 1151  ls
+ 1152  cd Packages
+ 1153  ls
+ 1154  cd User
+ 1155  ls
+ 1156  ls -a
+ 1157  cd ..
+ 1158  ls
+ 1159  cd ..
+ 1160  ls
+ 1161  cd Index
+ 1162  ls
+ 1163  cd ..
+ 1164  ls
+ 1165  cd Installed\ Packages
+ 1166  ls
+ 1167  cd ..
+ 1168  subl
+ 1169  cd ..
+ 1170  ls
+ 1171  pwd
+ 1172  ls
+ 1173  . code
+ 1174  pwd
+ 1175  cd aws
+ 1176  ls
+ 1177  cd django
+ 1178  ls
+ 1179  cd ebdjango
+ 1180  ls
+ 1181  code
+ 1182  pwd
+ 1183  ls
+ 1184  code .
+ 1185  source /Users/stm/opt/anaconda3/bin/activate
+ 1186  conda activate base
+ 1187  pwd
+ 1188  source ../eb-virt/bin/activate
+ 1189  code .
+ 1190  ls
+ 1191  source ../eb-virt/bin/activate
+ 1192  python manage.py runserver
+ 1193  pip csv
+ 1194  pip install csv
+ 1195  pip install --upgrade pip
+ 1196  pip install csv
+ 1197  python manage.py runserver
+ 1198  wich code
+ 1199  python
+ 1200  python manage.py runserver
+ 1201  clear
+ 1202  python manage.py runserver
+ 1203  pwd
+ 1204  ipython
+ 1205  ls
+ 1206  pwd
+ 1207  deactivate
+ 1208  eb deploy
+ 1209  ls
+ 1210  cd ..
+ 1211  ls
+ 1212  cd ebdjango
+ 1213  ls
+ 1214  ls -a
+ 1215  eb init
+ 1216  eb deploy
+ 1217  ls eb*
+ 1218  cd ..
+ 1219  ls eb*
+ 1220  ls
+ 1221  cd ebdjango
+ 1222  ls
+ 1223  pwd
+ 1224  ls
+ 1225  pip freeze  > requirements.txt
+ 1226  cat requirements.txt
+ 1227  eb create django-env
+ 1228  eb open
+ 1229  source ../eb-virt/bin/activate
+ 1230  ls
+ 1231  pip freeze  > requirements.txt
+ 1232  eb deploy
+ 1233  deactivate
+ 1234  eb deploy
+ 1235  pip freeze  > requirements.txt
+ 1236  rm requirements.txt
+ 1237  source ../eb-virt/bin/activate
+ 1238  pip freeze  > requirements.txt
+ 1239  deactivate
+ 1240  eb traminate
+ 1241  eb terminate
+ 1242  exit
+ 1243  source ../eb-virt/bin/activate
+ 1244  rm requirements.txt
+ 1245  python manage.py runserver 
+ 1246  ls
+ 1247  pip freeze  > requirements.txt
+ 1248  deactivate
+ 1249  ls
+ 1250  eb create django-env
+ 1251  ed status
+ 1252  pwd
+ 1253  eb status
+ 1254  eb open
+ 1255  eb health
+ 1256  eb terminate
+ 1257  aws s3 ls
+ 1258  aws s3 rb s3://elasticbeanstalk-us-west-2-861153354960 --force
+ 1259  aws s3 ls
+ 1260  aws s3 rb s3://* --force
+ 1261  aws s3 rb s3:* --force
+ 1262  aws s3 ls --summarize --human-readable --recursive s3://elasticbeanstalk-us-west-2-861153354960/
+ 1263  aws s3 ls --summarize --human-readable --recursive s3://aws-codestar-us-east-1-861153354960-omriservation-app/
+ 1264  aws s3 ls --summarize --human-readable --recursive s3://elasticbeanstalk-eu-west-3-861153354960/
+ 1265  source ../eb-virt/bin/activate
+ 1266  python manage.py runserver
+ 1267  python manage.py runserver 192.168.1.4:8000
+ 1268  ipython
+ 1269  pwd
+ 1270  cd\\nls
+ 1271  cd..
+ 1272  cd ..
+ 1273  cd\\nls
+ 1274  cd ..
+ 1275  ls
+ 1276  cd aws
+ 1277  ls
+ 1278  cd django
+ 1279  ls
+ 1280  cd ebdjango
+ 1281  ls
+ 1282  source ../eb-virt/bin/activate
+ 1283  pip list
+ 1284  cT text_result.txt.txt
+ 1285  rm text_result.txt.txt
+ 1286  pip install -r requirements.txt
+ 1287  pip install awsebcli
+ 1288  pip uninstall tox
+ 1289  nano requirements.txt
+ 1290  pip install awsebcli
+ 1291  clear
+ 1292  nano .ebextensions/django.config
+ 1293  ls
+ 1294  ls -a
+ 1295  cd .elasticbeanstalk
+ 1296  ls
+ 1297  nano config.yml
+ 1298  cd ..
+ 1299  ls
+ 1300  nano requirements.txt
+ 1301  python manage.py runserver 192.168.1.4:8000
+ 1302  python manage.py runserver 
+ 1303  pip ?
+ 1304  pip man
+ 1305  pip -h
+ 1306  pip uninstall PIL
+ 1307  pip uninstall WAND
+ 1308  pip list
+ 1309  pip uninstall json2html
+ 1310  pip uninstall Pillow
+ 1311  pip list
+ 1312  pip freeze > requirements.txt
+ 1313  cat requirements.txt
+ 1314  pip requirements.txt
+ 1315  pip install requirements.txt
+ 1316  rm requirements.txt
+ 1317  pip freeze > requirements.txt
+ 1318  pip install requirements.txt
+ 1319  ls
+ 1320  python manage.py runserver
+ 1321  python manage.py runserver 
+ 1322  clear
+ 1323  python manage.py runserver 
+ 1324  pip install   Pillow 
+ 1325  python manage.py runserver 
+ 1326  pip freeze > requirements.txt
+ 1327  pip install requirements.txt
+ 1328  cat requirements.txt
+ 1329  rm requirements.txt
+ 1330  pip list
+ 1331  pip freeze > requirements.txt
+ 1332  cat requirements.txt
+ 1333  pip install -r requirements.txt
+ 1334  ls
+ 1335  cd ..
+ 1336  ls
+ 1337  pip install awsebcli
+ 1338  deactivate 
+ 1339  ls
+ 1340  ls -a
+ 1341  cd ebdjango
+ 1342  ls
+ 1343  ls -a
+ 1344  eb init -p python-3.7
+ 1345  eb init -p python-3.7 api-env
+ 1346  ls
+ 1347  ls -a
+ 1348  cd .elasticbeanstalk
+ 1349  ls
+ 1350  cat config.yml
+ 1351  cd ..
+ 1352  eb init
+ 1353  ls
+ 1354  eb create stm-api 
+ 1355  ed log
+ 1356  clear
+ 1357  eb health
+ 1358  eb?
+ 1359  eb help
+ 1360  eb -
+ 1361  eb -h
+ 1362  eb -debug
+ 1363  eb --debug
+ 1364  eb create stm-api --debug
+ 1365  eb create stm2-api --debug
+ 1366  eb open
+ 1367  eb status
+ 1368  eb health
+ 1369  deactivate
+ 1370  ls
+ 1371  eb create stm2-api --debug
+ 1372  ls
+ 1373  source ../eb-virt/bin/activate
+ 1374  python manage.py runserver 
+ 1375  pwd
+ 1376  cd aws
+ 1377  ls
+ 1378  cd django
+ 1379  ls
+ 1380  brew install heroku/brew/heroku
+ 1381  heroku login
+ 1382  git clone https://github.com/heroku/python-getting-started.git
+ 1383  cd python-getting-started
+ 1384  ls
+ 1385  cat requirements.txt
+ 1386  heroku create
+ 1387  git push heroku master
+ 1388  heroku ps:scale web=1
+ 1389  heroku open
+ 1390  heroku logs --tail
+ 1391  heroku ps
+ 1392  heroku ps:scale web=0
+ 1393  cd ..
+ 1394  ls
+ 1395  cd ebdjango
+ 1396  ls
+ 1397  heroku local web
+ 1398  nano Procfile
+ 1399  heroku local web
+ 1400  cd ..
+ 1401  ls
+ 1402  cd python-getting-started
+ 1403  ls
+ 1404  cat Procfile
+ 1405  cat requirements.txt
+ 1406  nano  requirements.txt
+ 1407  cd ..
+ 1408  ls
+ 1409  cd ebdjango
+ 1410  ls
+ 1411  nano requirements.txt
+ 1412  heroku local web
+ 1413  ls
+ 1414  heroku local web
+ 1415  python -m pip install gunicorn
+ 1416  source ../eb-virt/bin/activate
+ 1417  ls
+ 1418  python -m pip install gunicorn
+ 1419  heroku local web
+ 1420  deactivate
+ 1421  heroku local web
+ 1422  nano requirements.txt
+ 1423  code .
+ 1424  heroku local
+ 1425  heroku run python manage.py shell
+ 1426  import requests
+ 1427  heroku run bash
+ 1428  ls
+ 1429  deactivate
+ 1430* pwd
+ 1431* ../eb-virt/bin/deactivate 
+ 1432* source deactivate 
+ 1433  pwd
+ 1434  cd aws
+ 1435  ls
+ 1436  cd django
+ 1437  ls
+ 1438  cd ebdjango
+ 1439  ls
+ 1440  heroku create
+ 1441  heroku apps:destroy
+ 1442  heroku apps:destroy agile-temple-71034
+ 1443  heroku apps:destroy agile-temple-71034  --confirm 
+ 1444  heroku apps:destroy agile-temple-71034  --confirm  agile-temple-71034
+ 1445  heroku create
+ 1446  gunicorn ebdjango/wsgi.py
+ 1447  nano  ebdjango/wsgi.py
+ 1448  cd ebdjango
+ 1449  ls
+ 1450  heroku login
+ 1451  cd ..
+ 1452  ls
+ 1453  source ../eb-virt/bin/activate
+ 1454  git init
+ 1455  git add .
+ 1456  git commit -m 'first commit'
+ 1457  heroku create
+ 1458  heroku apps:destroy hidden-wildwood-61712  --confirm  hidden-wildwood-61712
+ 1459  heroku create stm-django
+ 1460  heroku git:remote -a stm-django
+ 1461  pip install gunicorn
+ 1462  ls
+ 1463  gunicorn ebdjango.wsgi
+ 1464  heroku local
+ 1465  git add .
+ 1466  git commit -m 'add Procfile'
+ 1467  git push heroko master
+ 1468  git push heroku  master
+ 1469  git add .
+ 1470  git commit -m 'add Procfile'
+ 1471  git push heroku  master
+ 1472  git add .
+ 1473  git commit -m 'change in allowed hosto with the domain of heroku '
+ 1474  git push heroku  master
+ 1475  git add .
+ 1476  git commit -m 'change settings '
+ 1477  git push heroku  master
+ 1478  heroku open
+ 1479  heroku --h
+ 1480  heroku -help
+ 1481  y
+ 1482  heroku ?
+ 1483  cat requirements.txt
+ 1484  clear
+ 1485  git add .
+ 1486  git commit -m 'change settings '
+ 1487  git push heroku  master
+ 1488  heroku open
+ 1489  ls
+ 1490  cd ..
+ 1491  ls
+ 1492  cd ebdjango
+ 1493  ls
+ 1494  heroku run bash -a Aptfile
+ 1495  heroku buildpacks:add --index 1 heroku-community/apt
+ 1496  git push heroku main
+ 1497  heroku create --buildpack https://github.com/heroku/heroku-buildpack-apt.git
+ 1498  ls
+ 1499  python get-pip.py
+ 1500  python
+ 1501  ls
+ 1502  heroku create --buildpack https://github.com/paulfurley/heroku-buildpack-python-opencv-3.1.0.git
+ 1503  history
+ 1504  heroku create
+ 1505  heroku apps
+ 1506  heroku apps:destroy aqueous-fjord-67242  --confirm aqueous-fjord-67242
+ 1507  heroku create --buildpack https://github.com/paulfurley/heroku-buildpack-python-opencv-3.1.0.git
+ 1508  git push heroku master
+ 1509  heroku open
+ 1510  heroku apps
+ 1511  git add . 
+ 1512  git commit -m 'change procfile '
+ 1513  git push heroku  master
+ 1514  heroku open
+ 1515  git add . 
+ 1516  git commit -m 'change settings '
+ 1517  git push heroku  master
+ 1518  heroku open
+ 1519  git add . 
+ 1520  git commit -m 'change settings '
+ 1521  git push heroku  master
+ 1522  heroku open
+ 1523  git add . 
+ 1524  git commit -m 'change settings '
+ 1525  git push heroku  master
+ 1526  git add . 
+ 1527  git commit -m 'change settings '
+ 1528  git push heroku  master
+ 1529  heroku open
+ 1530  pwd
+ 1531  ls
+ 1532  cd ebdjango
+ 1533  ls
+ 1534  cd ..
+ 1535  cd fpages
+ 1536  ls
+ 1537  cd templates
+ 1538  ls
+ 1539  pwd
+ 1540  cd ..
+ 1541  ls
+ 1542  cd ..
+ 1543  ls
+ 1544  pws
+ 1545  pwd
+ 1546  ls
+ 1547  git add . 
+ 1548  git commit -m 'change settings '
+ 1549  git push heroku  master
+ 1550  heroku open
+ 1551  git add . 
+ 1552  git commit -m 'change settings '
+ 1553  git push heroku  master
+ 1554  heroku open
+ 1555  heroku aps
+ 1556  y
+ 1557  heroku apps
