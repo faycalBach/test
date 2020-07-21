@@ -1,1 +1,1 @@
-web: gunicorn ebdjango.wsgi
+web: gunicorn ebdjango.wsgi --preload
