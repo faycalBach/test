@@ -51,11 +51,12 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = 'ebdjango.urls'
 
+#'DIRS': [ os.path.join(BASE_DIR, 'templates'), './templates/'],
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
         
-        'DIRS': [ os.path.join(BASE_DIR, 'templates'), './templates/'],
+        'DIRS': [ './templates/'],
         
         'APP_DIRS': True,
         'OPTIONS': {
