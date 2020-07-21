@@ -56,7 +56,7 @@ TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
         
-        'DIRS': [ '/ebdjango/fpages/templates/'],
+        'DIRS': [ os.path.join(BASE_DIR, 'fpages/templates')],
         
         
         'APP_DIRS': True,
