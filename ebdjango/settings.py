@@ -56,7 +56,8 @@ TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
         
-        'DIRS': [ '/home/jay/apijay/templates'],
+        'DIRS': [ '/ebdjango/fpages/templates/'],
+        
         
         'APP_DIRS': True,
         'OPTIONS': {
