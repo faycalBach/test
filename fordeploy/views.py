@@ -172,27 +172,7 @@ def upload(request):
 
 def uploaded(request,num=1):
 
-    '''
-
-    print('start uploaded................................................')
-    for key, value in request.GET.items():
-     print('Key: %s' % (key) ) 
-    # print(f'Key: {key}') in Python >= 3.7
-     print('Value %s' % (value) )
-    # print(f'Value: {value}') in Python >= 3.7
-    print('end uploaded................................................')
     
-
-    
-    element='bnl'
-    if num== 1 :
-      element='tim'
-    text_image = loaded.res[element]
-
-   
-    print('.........................................',element,'........keys res ',loaded.res.keys())
-    return HttpResponse(text_image,  content_type="application/json") 
-   '''
     element='csv2json'
     if num== 1 :
       element='tim'
@@ -201,6 +181,8 @@ def uploaded(request,num=1):
     text_image='upload before you can view '+ element 
     if element in loaded.res:  
       text_image = loaded.res[element]
+      json_object = json.loads(text_image)
+      text_image = json.dumps(json_object, indent=2)
     response = HttpResponse(text_image,  content_type="application/json") 
     response["Access-Control-Allow-Origin"] = "*"
     response["Access-Control-Allow-Methods"] = "GET, OPTIONS"

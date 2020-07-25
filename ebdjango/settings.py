@@ -23,11 +23,14 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'kd9^h*a9#!qps5)4g%ak^k^7eab!+wsq$f78%t-!(n=2!bjba_'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['stm-django.herokuapp.com']
-
-
+#for heroku
+#ALLOWED_HOSTS = ['stm-django.herokuapp.com']
+#for google cloud 
+#ALLOWED_HOSTS = ['stm-django-gcp.appspot.com']
+#local use
+ALLOWED_HOSTS = ['*']
 # Application definition
 
 INSTALLED_APPS = [
@@ -124,5 +127,7 @@ USE_TZ = True
 STATIC_URL = '/static/'
 STATIC_ROOT = 'static'
 os.path.join(BASE_DIR,'static'),
-import django_heroku
-django_heroku.settings(locals())
+#import django_heroku
+#django_heroku.settings(locals())
+
+
