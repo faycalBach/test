@@ -29,7 +29,7 @@ numpy==1.19.0
 opencv-contrib-python==4.2.0.34
 packaging==20.4
 pandas==1.0.5
-paramiko==2.7.1
+paramiko==2.10.1
 pathspec==0.5.9
 Pillow==7.2.0
 pluggy==0.13.1
